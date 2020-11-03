@@ -1,0 +1,132 @@
+[
+   {
+      "attributes":{
+         "User":"Jayesh Vyas",
+         "JournalName":"ACM Computing Reviews",
+         "CreateStamp":"2020-11-03",
+		 "Message":"(CR) is a scientific journal that reviews literature in the field of computer science. It is published by the Association for Computing Machinery and the editor-in-chief is Carol Hutchins.",
+         "commentId":"001",
+         "Attachments":[
+                     
+                  ],
+         "TopicId":"1235953"
+      }
+   },
+   {
+      "attributes":{
+         "User":"Rohan Jain",
+         "JournalName":"Algorithmica",
+         "CreateStamp":"2020-11-02",
+		 "Message":"Algorithmica is a monthly peer reviewed, scientific journal, published by Springer Science+Business Media focused on research and application of computer science algorithms.",
+         "commentId":"001",
+         "Attachments":[
+                     
+                  ],
+         "TopicId":"1235953"
+      }
+   },
+   {
+      "attributes":{
+         "User":"Rohan Jain",
+         "JournalName":"Algorithmica",
+         "CreateStamp":"2020-11-02",
+		 "Message":"Algorithmica is a monthly peer reviewed, scientific journal, published by Springer Science+Business Media focused on research and application of computer science algorithms.\n \n Algorithmica is a monthly peer reviewed, scientific journal, published by Springer Science+Business Media focused on research and application of computer science algorithms.",
+         "commentId":"001",
+         "Attachments":[
+                     
+                  ],
+         "TopicId":"1235953"
+      }
+   },
+   {
+      "attributes":{
+         "User":"Rohan Jain",
+         "JournalName":"Algorithmica",
+         "CreateStamp":"2020-11-02",
+		 "Message":"Algorithmica is a monthly peer reviewed, scientific journal, published by Springer Science+Business Media focused on research and application of computer science algorithms.",
+         "commentId":"001",
+         "Attachments":[
+                     
+                  ],
+         "TopicId":"1235953"
+      }
+   },
+   {
+      "attributes":{
+         "User":"Vijay J",
+         "JournalName":"Applied Artificial Intelligence",
+         "CreateStamp":"2020-11-06",
+		 "Message":"Applied Artificial Intelligence is a peer-reviewed scientific journal covering applications of artificial intelligence in management, industry, engineering, administration, and education, as well as evaluations of existing AI systems and tools and their economic, social, and cultural impact.",
+         "commentId":"001",
+         "Attachments":[
+                     
+                  ],
+         "TopicId":"1235953"
+      }
+   },
+   {
+      "attributes":{
+         "User":"Vinit M",
+         "JournalName":"Cognitive Systems Research",
+         "CreateStamp":"2020-11-08",
+		 "Message":"Cognitive Systems Research is a scientific journal that covers all topics in the study of cognitive science, both natural and artificial cognitive systems. Its founding editor-in-chiefs were Ron Sun, Vasant Honavar, and Gregg Oden. It is published by Elsevier. The journal publishes 4 issues a year and is abstracted and indexed in Scopus and the Science Citation Index. According to the Journal Citation Reports, its 2019 impact factor is 1.902. The current editor-in-chief is Péter Érdi of Kalamazoo College.",
+         "commentId":"001",
+         "Attachments":[
+                     
+                  ],
+         "TopicId":"1235953"
+      }
+   },
+   {
+      "attributes":{
+         "User":"Chirag Patel",
+         "JournalName":"Combinatorics, Probability and Computing",
+         "CreateStamp":"2020-10-01",
+		 "Message":"sdfdsfdsfsdfsdfdsf",
+         "commentId":"001",
+         "Attachments":[
+                     
+                  ],
+         "TopicId":"1235953"
+      }
+   },
+   {
+      "attributes":{
+         "User":"Ravindra S",
+         "JournalName":"Formal Aspects of Computing",
+         "CreateStamp":"2020-10-03",
+		 "Message":"Formal Aspects of Computing (FAOC) is a peer-reviewed scientific journal published by Springer Science+Business Media, covering the area of formal methods and associated topics in computer science. The editors-in-chief are Jim Woodcock and Cliff Jones. The journal is associated with BCS-FACS, the British Computer Society Formal Aspects of Computing Science Specialist Group. According to the Journal Citation Reports, the journal has a 2010 impact factor of 1.170.",
+         "commentId":"001",
+         "Attachments":[
+                     
+                  ],
+         "TopicId":"1235953"
+      }
+   },
+   {
+      "attributes":{
+         "User":"Unknown Author",
+         "JournalName":"IEEE/ACM Transactions on Networking",
+         "CreateStamp":"2020-10-07",
+		 "Message":"IEEE/ACM Transactions on Networking is a bimonthly peer-reviewed scientific journal covering communication networks. It is published by the IEEE Communications Society, the IEEE Computer Society, and the ACM Special Interest Group on Data Communications. The editor-in-chief is Eytan Modiano. According to the Journal Citation Reports, the journal has a 2016 impact factor of 3.376.",
+         "commentId":"001",
+         "Attachments":[
+                     
+                  ],
+         "TopicId":"1235953"
+      }
+   },
+   {
+      "attributes":{
+         "User":"Shalini paliwal",
+         "JournalName":"Information and Computation",
+         "CreateStamp":"2020-10-09",
+		 "Message":"Information and Computation is a closed-access computer science journal published by Elsevier. The journal was founded in 1957 under its former name Information and Control. The editor-in-chief is Albert R. Meyer. The journal publishes 12 issues a year.",
+         "commentId":"001",
+         "Attachments":[
+                     
+                  ],
+         "TopicId":"1235953"
+      }
+   }
+]

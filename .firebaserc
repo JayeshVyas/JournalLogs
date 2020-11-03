@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "journallogs-d063a",
+    "default": "journallogs-d063a"
+  }
+}

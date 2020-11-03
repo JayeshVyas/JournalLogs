@@ -1,0 +1,45 @@
+<div class="heading" style="color: darkblue;font-size: 25px;"> Daily Journal Activity Log</div><BR><BR><BR>
+<div class="col-9 searchTopic"  style="padding-left: 380px;">
+  <input type="text" [(ngModel)]="searchText" placeholder="Search any Journal by keyword..." />
+</div>
+<BR>
+<div class="bd-example" style="padding-right: 135px;">
+  <button type="button" id="openModalButton" class="btn btn-primary" style="float: right;" data-toggle="modal" data-target="#openModal" (click)="openModal()">
+    Add New Journal
+  </button>
+</div>
+<BR>
+<BR>
+<div *ngFor="let product of products | filter : searchText">
+<div class="row">
+  <div class="ol-12 col-sm-8 col-lg-9" style="padding-left: 120px;
+    padding-right: 120px;
+    padding-bottom: 10px;">
+    <mat-accordion>
+      <mat-expansion-panel (opened)="panelOpenState = true" (closed)="panelOpenState = false">
+          <mat-expansion-panel-header>
+            <div class="row">
+              <div class="col-lg-8">
+                <mat-panel-title>
+                 <div class="subjectIcon wheat" style="padding-top: 20px;">
+                      <p style="background-color: #b5aab4 ;padding-top: 5px;">{{product?.attributes?.User | slice:0:1 }}</p>
+                    </div>&nbsp;&nbsp;&nbsp;
+                  <div class="row">
+                    <div class="col-sm-12" style="padding-top: 22px;height: 50px;"><div class="subjectIcon wheat">
+                    </div>{{product?.attributes?.JournalName}}<BR><mat-panel-description><div class="row"><div class="col-sm-9">{{product?.attributes?.User}}</div><div class="col-sm-3" style="padding-left: 904px;">{{product?.attributes?.CreateStamp}}</div><BR></div></mat-panel-description> 
+                    </div>
+                  </div>
+                </mat-panel-title>
+              </div>
+            </div>
+          </mat-expansion-panel-header>
+          <BR>
+          <hr>
+
+          <p style="overflow-wrap: break-word;white-space: pre-line;word-break:break-all;">{{product?.attributes?.Message}}
+</p>
+      </mat-expansion-panel>
+    </mat-accordion>
+  </div>
+</div>
+</div>
